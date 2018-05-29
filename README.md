@@ -12,14 +12,9 @@ Found 4 DS18b20 devices
 28-0316518b16ff-
 28-0316546283ff-
 
-DS ok
-DS ok
-DS ok
-DS ok
-
 DS checking OK!
 
-Temperatures: 
+Temperatures:
 Temp1: 21.000
 Temp2: 25.062
 Temp3: 20.062
