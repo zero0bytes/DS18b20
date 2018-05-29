@@ -7,10 +7,10 @@ Sample output from terminal:
 DS18b20 Setup...
 
 Found 4 DS18b20 devices
-28-041654fc53ff
-28-03165434a2ff
-28-0316518b16ff
-28-0316546283ff
+28-041654fc53ff-
+28-03165434a2ff-
+28-0316518b16ff-
+28-0316546283ff-
 
 DS ok
 DS ok
